@@ -28,14 +28,12 @@
 - [摘要](#摘要)
 - [一期研发计划：AI 编程生态（灰度测试中）](#一期研发计划ai-编程生态灰度测试中)
 - [社区共建与招募](#社区共建与招募)
-- [组织产品线概览](#组织产品线概览)
 - [仓库导航](#仓库导航)
   - [🌐 Web 门户层](#-web-门户层)
   - [🤖 AI 核心层](#-ai-核心层)
   - [🔧 后端服务层](#-后端服务层)
   - [📦 轻量级生态层](#-轻量级生态层)
   - [🗃️ 内部项目](#️-内部项目)
-- [产品线架构](#产品线架构)
 - [CookBook (代码烹饪书)](#cookbook-代码烹饪书)
 - [贡献指南](#贡献指南)
 - [反馈与支持](#反馈与支持)
@@ -62,18 +60,6 @@
 - 💡 **参与产品打磨**：我们会在群里定期发布新的 AI Native 产品以及制定研发计划，欢迎测试用户提出体验问题及 Bug 反馈。
 - 🚀 **Idea 到 MVP**：如果你有好的点子，欢迎通过 Vibe Coding 快速实现并申请合并到组织。
 - 🤝 **推广共建**：如果你身边有信得过的开源同好，欢迎邀请加入，共同建设更繁荣的社区。
-
----
-
-## 组织产品线概览
-
-| 产品 / 方向 | 定位 | 访问地址 |
-|:---|:---|:---|
-| **GitHave** | AI 驱动代码仓库助手（在线平台版） | [zzh.app/githave](https://zzh.app/githave) |
-| **GitHave Pro** | 开源专业版 AI 编程助手 | [GitHub](https://github.com/ZetaZeroHub/GitHavePro) |
-| **FlashMemory** | 去中心化 AI 上下文索引引擎 | [zzh.app/flash-memory](https://zzh.app/flash-memory) |
-| **Tech Report** | 技术洞察与行业报告 | [zzh.app/tech-report](https://zzh.app/tech-report) |
-| **Official** | 官网 | [zzh.app](https://zzh.app) |
 
 ---
 
@@ -174,42 +160,6 @@
 #### `README.md`（本仓库）
 
 > ZetaZeroHub 组织综合看板，作为所有仓库和产品线的导航入口。
-
----
-
-## 产品线架构
-
-```
-ZetaZeroHub 生态全景
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  用户 / 开发者
-       │
-       ├── 🌐  zzh.app            官方门户 & 产品展示
-       │
-       ├── 💻  githave-web        Web 前端 + API 网关（Monorepo）
-       │         ├── githave-gateway   Go API 网关（认证/代理/Agent）
-       │         └── 前端客户端 ...
-       │
-       ├── 📱  githave-omini      多端轻量级生态
-       │         ├── App 客户端
-       │         ├── VS Code 插件
-       │         ├── Chrome 插件
-       │         └── MCP / Skill 服务
-       │
-       ├── 🖥  mlops-front        AI Chat 全功能前端（独立部署）
-       │
-       ├── 🤖  BotGo              后端核心服务（Go）
-       │
-       ├── ⚡  FlashMemory        分布式 AI 上下文索引引擎
-       │         └── → GitHave / GitHavePro 的索引服务
-       │
-       ├── 🛠  GitHavePro         开源 AI 编程助手（专业版）
-       │
-       └── 🗄  cpcnc-pricing      算力定价 + cfn_chatbot RAG 知识库
-```
-
----
 
 ---
 
