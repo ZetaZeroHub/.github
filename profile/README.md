@@ -36,8 +36,7 @@
   - [📦 轻量级生态层](#-轻量级生态层)
   - [🗃️ 内部项目](#️-内部项目)
 - [产品线架构](#产品线架构)
-- [项目部署](#项目部署)
-  - [AIChatWeb 前后端系统部署指南](#aichatweb-前后端系统部署指南)
+- [CookBook (代码烹饪书)](#cookbook-代码烹饪书)
 - [相关链接](#相关链接)
 
 ---
@@ -212,13 +211,14 @@ ZetaZeroHub 生态全景
 
 ---
 
-## CookBook (代码烹饪书) & 完整文档
+## CookBook (代码烹饪书)
 
-为保持看板页面的整洁并方便大家快速查阅详细的架构设计与部署指引，我们将包含从前端到核心底层模型的**端到端项目部署与联调指南**独立整理成了 CookBook：
+为方便大家快速查阅详细的架构设计与部署指引，我们将包含从前端到核心底层模型的**端到端项目部署与联调指南**独立整理成了 CookBook：
 
 👉 **[ZetaZeroHub CookBook (完整版看板与部署指南)](https://github.com/ZetaZeroHub/README.md)**
 
 如果您是希望参与本组织生态共建或进行二次开发的开发者，强烈建议您阅读上述 CookBook，其中包含了：
+
 - `githave-web` API网关与核心服务说明
 - `mlops-front` AI Chat前端的全功能和多Agent配置指南
 - `cfn_chatbot` RAG知识库和算力定价模型的完整推理运行手册
@@ -242,6 +242,29 @@ ZetaZeroHub 生态全景
 | 📦 GitHavePro | [github.com/ZetaZeroHub/GitHavePro](https://github.com/ZetaZeroHub/GitHavePro) |
 | 📦 mlops-front | [github.com/ZetaZeroHub/mlops-front](https://github.com/ZetaZeroHub/mlops-front) |
 | 📦 cpcnc-pricing-repository | [github.com/ZetaZeroHub/cpcnc-pricing-repository](https://github.com/ZetaZeroHub/cpcnc-pricing-repository) |
+
+---
+
+## 🤝 贡献指南
+
+如果您希望参与本组织的生态共建，或者申请加入我们的核心贡献者行列，可以通过以下方式联系我们：
+
+- 📧 **邮箱申请**：[kinglegendzzh@163.com](mailto:kinglegendzzh@163.com)
+- 📺 **哔哩哔哩**：[@_章浩_](https://space.bilibili.com/39322300)
+- 🌐 **官网联络**：[zzh.app/me#contact](https://zzh.app/me#contact)
+- 💬 **微信联系**：`kinglegendchew` / `zhanghao_busi`
+  
+  <div align="center">
+    <img src="./images/wechat1.jpeg" width="200" alt="微信二维码1"/>
+    <img src="./images/wechat2.jpeg" width="200" alt="微信二维码2"/>
+  </div>
+
+---
+
+## 🐛 反馈与支持
+
+如果您在产品体验过程中遇到任何问题、Bug 或有功能建议，请随时提交 Issue：
+👉 **[提交反馈](https://github.com/ZetaZeroHub/README.md/issues/new)**
 
 ---
 
