@@ -37,6 +37,8 @@
   - [🗃️ 内部项目](#️-内部项目)
 - [产品线架构](#产品线架构)
 - [CookBook (代码烹饪书)](#cookbook-代码烹饪书)
+- [贡献指南](#贡献指南)
+- [反馈与支持](#反馈与支持)
 - [相关链接](#相关链接)
 
 ---
@@ -235,22 +237,22 @@ ZetaZeroHub 生态全景
 | ⚡ FlashMemory 产品页 | [zzh.app/flash-memory](https://zzh.app/flash-memory) |
 | 📊 Tech Report | [zzh.app/tech-report](https://zzh.app/tech-report) |
 | 🐙 GitHub 组织主页 | [github.com/ZetaZeroHub](https://github.com/ZetaZeroHub) |
-| 📦 githave-web | [github.com/ZetaZeroHub/githave-web](https://github.com/ZetaZeroHub/githave-web) |
+| 📦 githave-web(private) | [github.com/ZetaZeroHub/githave-web](https://github.com/ZetaZeroHub/githave-web) |
 | 📦 githave-omini | [github.com/ZetaZeroHub/githave-omini](https://github.com/ZetaZeroHub/githave-omini) |
-| 📦 BotGo | [github.com/ZetaZeroHub/BotGo](https://github.com/ZetaZeroHub/BotGo) |
-| 📦 FlashMemory | [github.com/ZetaZeroHub/FlashMemory](https://github.com/ZetaZeroHub/FlashMemory) |
+| 📦 BotGo(private) | [github.com/ZetaZeroHub/BotGo](https://github.com/ZetaZeroHub/BotGo) |
+| 📦 FlashMemory(private) | [github.com/ZetaZeroHub/FlashMemory](https://github.com/ZetaZeroHub/FlashMemory) |
 | 📦 GitHavePro | [github.com/ZetaZeroHub/GitHavePro](https://github.com/ZetaZeroHub/GitHavePro) |
-| 📦 mlops-front | [github.com/ZetaZeroHub/mlops-front](https://github.com/ZetaZeroHub/mlops-front) |
-| 📦 cpcnc-pricing-repository | [github.com/ZetaZeroHub/cpcnc-pricing-repository](https://github.com/ZetaZeroHub/cpcnc-pricing-repository) |
+| 📦 mlops-front(private) | [github.com/ZetaZeroHub/mlops-front](https://github.com/ZetaZeroHub/mlops-front) |
+| 📦 cpcnc-pricing-repository(private) | [github.com/ZetaZeroHub/cpcnc-pricing-repository](https://github.com/ZetaZeroHub/cpcnc-pricing-repository) |
 
 ---
 
-## 🤝 贡献指南
+## 贡献指南
 
 如果您希望参与本组织的生态共建，或者申请加入我们的核心贡献者行列，可以通过以下方式联系我们：
 
 - 📧 **邮箱申请**：[kinglegendzzh@163.com](mailto:kinglegendzzh@163.com)
-- 📺 **哔哩哔哩**：[@_章浩_](https://space.bilibili.com/39322300)
+- 📺 **哔哩哔哩**：[@_章浩_](https://space.bilibili.com/26383570)
 - 🌐 **官网联络**：[zzh.app/me#contact](https://zzh.app/me#contact)
 - 💬 **微信联系**：`kinglegendchew` / `zhanghao_busi`
   
@@ -261,7 +263,7 @@ ZetaZeroHub 生态全景
 
 ---
 
-## 🐛 反馈与支持
+## 反馈与支持
 
 如果您在产品体验过程中遇到任何问题、Bug 或有功能建议，请随时提交 Issue：
 👉 **[提交反馈](https://github.com/ZetaZeroHub/README.md/issues/new)**
