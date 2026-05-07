@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/adcc02b6-d986-451b-92e6-4d4976550082" alt="ZetaZeroHub README hero" />
+  <img src="https://github.com/user-attachments/assets/2d189d7b-d729-42f9-8b55-15fc1ef4e240" alt="ZetaZeroHub README hero" />
 </p>
 
 <div align="center">
