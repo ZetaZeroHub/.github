@@ -1,101 +1,55 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d189d7b-d729-42f9-8b55-15fc1ef4e240" alt="ZetaZeroHub README hero" />
-</p>
+<img src="https://raw.githubusercontent.com/ZetaZeroHub/.github/main/profile/assets/marble.png" width="100%" alt="Dark green marble with warm gold veins" />
 
-<div align="center">
+[English](https://github.com/ZetaZeroHub/.github/blob/main/profile/README.md) · [简体中文](https://github.com/ZetaZeroHub/.github/blob/main/profile/README.zh-CN.md)
 
-# ζ0Hub · ZetaZeroHub
+# ZetaZeroHub
 
-**始于零，臻于极。**
+**Research, open source, and AI-native products.**
 
-*Defining the Scale of Intelligence.*
+We are a community jointly built with [UESTC IA](https://uestc-ia.github.io/), the interdisciplinary association at the University of Electronic Science and Technology of China. We turn research and creative experiments into useful products, then learn from how people use them.
 
-We build AI-native products for code, context, and personal knowledge.
+[Website](https://zzh.app/en) · [Research notes](https://zzh.app/en/tech-report/human-ai-context) · [Get in touch](https://zzh.app/en#contact)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ZetaZeroHub-181717?logo=github)](https://github.com/ZetaZeroHub)
-[![Website](https://img.shields.io/badge/Website-zzh.app-6366f1)](https://zzh.app)
-[![GitHave](https://img.shields.io/badge/Product-GitHave-0ea5e9)](https://zzh.app/githave)
-[![FlashMemory](https://img.shields.io/badge/Product-FlashMemory-f59e0b)](https://zzh.app/flash-memory)
+## Try a product
 
-</div>
+| Create with AI | Understand code |
+| :--- | :--- |
+| **[Zeta Studio](https://studio.zzh.app/)** | **[GitHave AI](https://githave.com/home)** |
+| Turn a prompt into a 2D or 3D game world. | Explore repositories and build context for working with code. |
+| [Local agent integration](https://github.com/ZetaZeroHub/zeta-local-development) | [Open-source tools](https://github.com/ZetaZeroHub/GitHavePro) |
 
----
+## Find a project
 
-## What We Build
+Three places to start: memory that learns from feedback, mathematical optimization, and personal knowledge practice.
 
-ZetaZeroHub 是一个 **AI-native 产品社区**，围绕代码理解、上下文索引与个人知识基础设施，孵化开源产品与早期 MVP。
+![Three project workflows: write, recall and update memory confidence; model, solve and inspect optimization results; study, practice and revisit knowledge gaps.](https://raw.githubusercontent.com/ZetaZeroHub/.github/main/profile/assets/project-paths.svg)
 
-当前主线聚焦 **GitHave** 与 **FlashMemory**：前者面向 AI 编程与代码仓库理解，后者面向本地优先的上下文索引与记忆基础设施。
+| Project | What you can work on | Start here |
+| :--- | :--- | :--- |
+| **[DeepMemory](https://github.com/ZetaZeroHub/deepmemory)** | AI-native memory with Peircean semiotics, Bayesian feedback and multi-agent governance. | Read the SDK and CLI examples. |
+| **[MGHORPS](https://github.com/ZetaZeroHub/MGHORPS)** | LP, MILP and NLP modeling and solvers, with LINGO-style syntax and hardware routing. | Run a CPU example; check backend-specific support before using accelerators. |
+| **[Yuan Knowledge Base](https://github.com/ZetaZeroHub/yuan-knowledge-base)** | Search your materials, practice interview questions, and feed knowledge gaps back into your library. | Try the CV and job-description interview workflow. |
+| **[Zeta Local Development](https://github.com/ZetaZeroHub/zeta-local-development)** | Connect a local coding agent to the Zeta game platform through MCP and Skills. | Follow the release setup and validation workflow. |
+| **[Agentic Video Foundry](https://github.com/ZetaZeroHub/agentic-video-foundry)** | Take a coding agent from a video brief to editable, verified audiovisual output. | Start with the Skill and production examples. |
 
-如果你正在构建 AI-native 工具、试用早期产品，或想参与开源产品从 0 到 1 的过程，欢迎加入。
+More tools: [GitHavePro](https://github.com/ZetaZeroHub/GitHavePro) · [FlashMemory](https://github.com/ZetaZeroHub/FlashMemory) · [GitHave Omni](https://github.com/ZetaZeroHub/githave-omini)
 
-## Product Matrix
+## Research and creative work
 
-| Product | Focus | Status | Links |
-|:---|:---|:---|:---|
-| **GitHave** | AI 编程入口与代码仓库助手 | 灰度测试 | [Product](https://zzh.app/githave) · [Web](https://githave.com/home) |
-| **FlashMemory** | AI 上下文索引与本地记忆基础设施 | 早期迭代 | [Product](https://zzh.app/flash-memory) · [Tech Report](https://zzh.app/tech-report) |
-| **zzh.app** | 官网、产品页与技术报告入口 | Online | [Website](https://zzh.app) |
+Our interests span cognition and the subconscious, AI interpretability, and the relationship between technology, art and taste. Our current engineering work explores agent memory, Harness design, multimodal creation and optimization.
 
-## Repository Map
+**[Ascension](https://art.zzh.app/)** is a music-video project with a public production archive: storyboards, workflows and editing materials. [Explore the archive](https://github.com/ZetaZeroHub/ascension); check the repository's separate terms for code and media before reusing assets.
 
-### Public / Product-Facing
+## ZetaZeroHub × UESTC IA
 
-- [`GitHavePro`](https://github.com/ZetaZeroHub/GitHavePro): 开源 AI 驱动代码仓库助手，提供智能搜索、代码分析与文档生成能力。
-- [`githave-omini`](https://github.com/ZetaZeroHub/githave-omini): GitHave 轻量级多端生态，面向 App、VS Code、Chrome、MCP 与 Skill 场景。
-- [`README.md`](https://github.com/ZetaZeroHub/README.md): ZetaZeroHub 组织看板与产品导航。
+Our contributors come from UESTC, Lanzhou Jiaotong University, Nanjing University of Posts and Telecommunications, the National University of Singapore, and the wider open-source community.
 
-### Core / Infrastructure
+[UESTC IA](https://uestc-ia.github.io/) brings together an interdisciplinary community around LLMs, Physical AI, AI4Science and AI4Engineering. Together, we connect research discussions, open-source work and product development.
 
-- [`FlashMemory`](https://github.com/ZetaZeroHub/FlashMemory): GitHave 与 GitHave AI 的上下文索引基础设施，面向本地优先、去中心化部署与个人知识库场景。
-- [`BotGo`](https://github.com/ZetaZeroHub/BotGo): GitHave 系列产品的后端核心服务，承载代码助理、Agent 编排与服务集成能力。
-- [`githave-web`](https://github.com/ZetaZeroHub/githave-web): GitHave Web 门户与 API 网关 monorepo，连接在线产品、认证、AI 对话代理与工具注册能力。
-- [`mlops-front`](https://github.com/ZetaZeroHub/mlops-front): AI Chat 前端核心，覆盖多会话、Agent、MCP 编辑、流式输出与 Web 搜索等交互能力。
+## Contribute
 
-### Internal / Research
+You can start with a reproducible bug, a clearer example, a small feature or a research question. Choose a repository and check its README, issues and contribution guidance. For a larger change, discuss the scope with its maintainers first.
 
-- [`cpcnc-pricing-repository`](https://github.com/ZetaZeroHub/cpcnc-pricing-repository): 算力定价与 AI 知识库内部项目，支撑算力评估、RAG 问答、意图识别与 ChatBI 场景。
+![Contribution path: explore a concrete problem, build a focused and verifiable change, then document and share the result.](https://raw.githubusercontent.com/ZetaZeroHub/.github/main/profile/assets/contribution-path.svg)
 
-> Some repositories may be private while products are still in grayscale testing.
-
-## Join the Build
-
-可以从这些具体动作开始：
-
-- **试用产品**：体验 GitHave / FlashMemory，提交 Issue、Bug、体验反馈或改进建议。
-- **认领方向**：参与 Web、插件、索引引擎、文档、设计、评测或社区运营。
-- **带着 MVP 加入**：如果你有 AI-native 产品想法，可以先做出最小可行版本，再申请纳入社区共建。
-
-社区由高校、企业与开源贡献者共同参与，并获得企业经费支持。我们更关注真实可用的产品、清晰的工程协作，以及能持续迭代的想法。
-
-## CookBook
-
-更完整的架构说明、部署路径与联调指南会整理在 CookBook 中：
-
-👉 [ZetaZeroHub CookBook](https://github.com/ZetaZeroHub/README.md)
-
-建议希望参与二次开发的贡献者优先阅读 CookBook，再选择具体仓库切入。
-
-## Links
-
-| Resource | URL |
-|:---|:---|
-| 官网首页 | [zzh.app](https://zzh.app) |
-| 关于我 | [zzh.app/me](https://zzh.app/me) |
-| GitHave | [zzh.app/githave](https://zzh.app/githave) |
-| FlashMemory | [zzh.app/flash-memory](https://zzh.app/flash-memory) |
-| Tech Report | [zzh.app/tech-report](https://zzh.app/tech-report) |
-| GitHub Org | [github.com/ZetaZeroHub](https://github.com/ZetaZeroHub) |
-
-## Contact
-
-- Email: [kinglegendzzh@163.com](mailto:kinglegendzzh@163.com)
-- Bilibili: [@_章浩_](https://space.bilibili.com/26383570)
-- Website: [zzh.app/me#contact](https://zzh.app/me#contact)
-- WeChat: `kinglegendchew` / `zhanghao_busi`
-
-<div align="center">
-
-*ζ0Hub · 始于零，臻于极*
-
-</div>
+For research collaboration, product partnerships or investment conversations, [contact us](https://zzh.app/en#contact) with the problem, context and kind of collaboration you have in mind.
